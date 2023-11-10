@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RFlocalfdr"]
+	path = RFlocalfdr
+	url = https://github.com/cran/RFlocalfdr
 [submodule "RFlocalfdr.data"]
 	path = RFlocalfdr.data
 	url = https://github.com/cran/RFlocalfdr.data
