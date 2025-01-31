@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "RFlocalfdr"]
 	path = RFlocalfdr
-	url = https://github.com/cran/RFlocalfdr
+	url = https://github.com/parsifal9/rflocalfdr
 [submodule "RFlocalfdr.data"]
 	path = RFlocalfdr.data
 	url = https://github.com/cran/RFlocalfdr.data
